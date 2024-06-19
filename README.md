@@ -25,6 +25,8 @@
 - Pytorch의 Lightning 프레임워크를 활용한 DQN(Deep Q-Network) 모델 구현 (모델 학습의 주요 목표는 포트폴리오의 수익률을 극대화하고 위험을 최소화하는 것)
 - Loss Function (5가지 투자전략) 수립 및 거래소별 실험을 통한 최적의 손실함수 도출 : 강화 학습에서 손실 함수는 에이전트가 환경과의 상호작용을 통해 얻은 경험을 학습하는 데 중요한 역할을 하고 다른 학습 관점을 제공하는데 본 연구에서는 최적의 손실 함수 세팅을 위한 실험을 진행하였다 ; (1) Action-Amount Value Combined Loss (action X amount), (2) Action-Only Loss (action), (3) Amount-Only Loss (amount), (4) Combined Action-Only and Amount-Only Loss (action + amount), (5) Comprehensive Loss (action * amount + action + amount).
 - 각 거래소별 최적의 Loss Function을 적용한 모델 채택 및 산업군별 투자 전략 적용 : 총 11가지 산업군 기반으로 산업군 인덱스를 할당하고 산업군별 계층적 softmax를 적용하여 최종 PROPOSED 모델 수립. (섹터 : 금융 / 기술 / 부동산 / 산업 / 소비순환재 / 소재 / 아카데믹 및 교육 서비스 / 에너지 / 유틸리티 / 필수소비재 / 헬스케어)
+  
+<img width="451" alt="image" src="https://github.com/CSID-DGU/2024-1-DSCD-BLINK-5/assets/128684050/900aa9ae-06f1-4407-959f-7006e1a38fe0">
 
 ### 향후 계획
 - 미국 시장 테스팅 및 PPO 알고리즘으로 디벨롭 후, 2024.08-09월 중 IEEE ACESS submit 예정.
