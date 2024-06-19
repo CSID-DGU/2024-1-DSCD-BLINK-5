@@ -1,0 +1,10 @@
+bugget: 10000
+
+LR: 0.0001
+num_episodes: 10 #12320
+
+NATION: "us" # 'kr', 'us'
+MARKET: "nasdaq" # 'kospi', 'kosdaq', 'nasdaq', 'nyse'
+
+model: "dqn"
+GPU_NUM: "2"

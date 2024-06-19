@@ -1,0 +1,10 @@
+BASE_DATA_DIR: "/Users/skykim/2024-1-DSCD-BLINK-5/stock_data"
+SEED: 80
+
+n_actions: 500
+n_features: 5
+
+GAMMA: 0.99
+BATCH_SIZE: 256
+WINDOW_SIZE: 10
+MAX_RANDOM_AMOUNT_STOCK: 100
