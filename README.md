@@ -37,6 +37,14 @@
 => 수익률 : 34.74%, INDEX : 25.18 %, 샤프 지수 : 1.25
 <img width="470" alt="image" src="https://github.com/CSID-DGU/2024-1-DSCD-BLINK-5/assets/128684050/553c5224-e05c-428c-9ff1-346da69e187f">
 
+3. [미국] NYSE
+=> 수익률 : 17.06%, INDEX : 9.60 %, 샤프 지수 : 0.58
+<img width="451" alt="image" src="https://github.com/CSID-DGU/2024-1-DSCD-BLINK-5/assets/128684050/2f2a1496-9bc3-4b90-bb17-3da51e9ac9ec">
+
+4. [미국] NASDAQ
+=> 수익률 : 152.82%, INDEX : 42.62%, 샤프 지수 : 3.73
+<img width="450" alt="image" src="https://github.com/CSID-DGU/2024-1-DSCD-BLINK-5/assets/128684050/6fa5b500-e69f-4c21-8c39-6e627ec9d198">
+
 
 ### 향후 계획
 - 미국 시장 테스팅 및 PPO 알고리즘으로 디벨롭 후, 2024.08-09월 중 IEEE ACESS submit 예정.
