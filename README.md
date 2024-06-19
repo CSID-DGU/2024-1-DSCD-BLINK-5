@@ -45,6 +45,8 @@
 => 수익률 : 152.82%, INDEX : 42.62%, 샤프 지수 : 3.73
 <img width="450" alt="image" src="https://github.com/CSID-DGU/2024-1-DSCD-BLINK-5/assets/128684050/6fa5b500-e69f-4c21-8c39-6e627ec9d198">
 
+4가지 거래소 모두, 단위 리스크당 수익률(샤프지수)이 인덱스에 비해 더욱 안정적인 현상을 보임.
+
 
 ### 향후 계획
 - 미국 시장 테스팅 및 PPO 알고리즘으로 디벨롭 후, 2024.08-09월 중 IEEE ACESS submit 예정.
